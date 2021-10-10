@@ -1,0 +1,17 @@
+remove skills.md
+remove accomplishments.md
+remove posts.md
+remove talks.md
+delete Featured Publications (featured.md)
+edit experience.md to remove interests
+edit Recent Publications (I assume publications.md and ../publications/...)
+edit Contact to remove the form
+
+edit publications: JFQA forthcoming
+remove projects
+remove Popular Topics
+fix menu
+
+add a nice picture of the Candie
+add a teaching section
+

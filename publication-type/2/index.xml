@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Academic</title>
+    <link>https://example.com/publication-type/2/</link>
+      <atom:link href="https://example.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 01:00:06 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://example.com/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>An application of causal forest in corporate finance: How does financing affect investment?</title>
+      <link>https://example.com/working/gulenjenspage-forest/</link>
+      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <guid>https://example.com/working/gulenjenspage-forest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling for group-level heterogeneity in causal forest</title>
+      <link>https://example.com/working/jenspagereeder-forestfixed/</link>
+      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <guid>https://example.com/working/jenspagereeder-forestfixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corporate cash and political uncertainty</title>
+      <link>https://example.com/working/jenspage-cash/</link>
+      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <guid>https://example.com/working/jenspage-cash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Change in capitol: How a 60 Minutes exposé and the STOCK Act affected the investment activity of U.S. Senators</title>
+      <link>https://example.com/working/cherryheitzjens-stock/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/working/cherryheitzjens-stock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Political Uncertainty and Investment:  Causal Evidence from U.S. Gubernatorial Elections</title>
+      <link>https://example.com/publication/jens-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/jens-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The real effects of delisting:  Evidence from a regression discontinuity design</title>
+      <link>https://example.com/publication/bakkejenswhited-2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/bakkejenswhited-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
