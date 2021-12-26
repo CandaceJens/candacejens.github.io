@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
+    <title>Candace Jens</title>
+    <link>https://candacejens.github.io/</link>
+      <atom:link href="https://candacejens.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Candace Jens</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Academic</title>
-      <link>https://example.com/</link>
+      <url>https://candacejens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Candace Jens</title>
+      <link>https://candacejens.github.io/</link>
     </image>
     
     <item>
       <title>Example Talk</title>
-      <link>https://example.com/talk/example-talk/</link>
+      <link>https://candacejens.github.io/talk/example-talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      <guid>https://example.com/talk/example-talk/</guid>
+      <guid>https://candacejens.github.io/talk/example-talk/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -33,46 +33,46 @@
     </item>
     
     <item>
-      <title>An application of causal forest in corporate finance: How does financing affect investment?</title>
-      <link>https://example.com/working/gulenjenspage-forest/</link>
-      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/gulenjenspage-forest/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Controlling for group-level heterogeneity in causal forest</title>
-      <link>https://example.com/working/jenspagereeder-forestfixed/</link>
+      <link>https://candacejens.github.io/working/jenspagereeder-forestfixed/</link>
       <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/jenspagereeder-forestfixed/</guid>
+      <guid>https://candacejens.github.io/working/jenspagereeder-forestfixed/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Corporate cash and political uncertainty</title>
-      <link>https://example.com/working/jenspage-cash/</link>
+      <link>https://candacejens.github.io/working/jenspage-cash/</link>
       <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/jenspage-cash/</guid>
+      <guid>https://candacejens.github.io/working/jenspage-cash/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>The heterogeneous effects of default on investment: An application of causal forest in corporate finance</title>
+      <link>https://candacejens.github.io/working/gulenjenspage-forest/</link>
+      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <guid>https://candacejens.github.io/working/gulenjenspage-forest/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Political uncertainty and firm investment: Project-level evidence from M&amp;A activity</title>
-      <link>https://example.com/publication/chencihanjens-2017/</link>
+      <link>https://candacejens.github.io/publication/chencihanjens-2017/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chencihanjens-2017/</guid>
+      <guid>https://candacejens.github.io/publication/chencihanjens-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jfqa.org/2021/03/03/political-uncertainty-and-firm-investment-project-level-evidence-from-ma-activity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>https://candacejens.github.io/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>https://candacejens.github.io/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
@@ -147,9 +147,9 @@
     
     <item>
       <title>Slides</title>
-      <link>https://example.com/slides/example/</link>
+      <link>https://candacejens.github.io/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/slides/example/</guid>
+      <guid>https://candacejens.github.io/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -275,46 +275,28 @@ Three
     </item>
     
     <item>
-      <title>Privacy Policy</title>
-      <link>https://example.com/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/privacy/</guid>
-      <description>&lt;p&gt;Add your privacy policy here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>https://example.com/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>https://example.com/terms/</guid>
-      <description>&lt;p&gt;Add your terms here and set &lt;code&gt;draft: false&lt;/code&gt; to publish it. Otherwise, delete this file if you don&amp;rsquo;t need it.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Change in capitol: How a 60 Minutes exposé and the STOCK Act affected the investment activity of U.S. Senators</title>
-      <link>https://example.com/working/cherryheitzjens-stock/</link>
+      <link>https://candacejens.github.io/working/cherryheitzjens-stock/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working/cherryheitzjens-stock/</guid>
+      <guid>https://candacejens.github.io/working/cherryheitzjens-stock/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2905309&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Political Uncertainty and Investment:  Causal Evidence from U.S. Gubernatorial Elections</title>
-      <link>https://example.com/publication/jens-2017/</link>
+      <link>https://candacejens.github.io/publication/jens-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/jens-2017/</guid>
+      <guid>https://candacejens.github.io/publication/jens-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S0304405X17300582&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Project</title>
-      <link>https://example.com/project/example/</link>
+      <link>https://candacejens.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/example/</guid>
+      <guid>https://candacejens.github.io/project/example/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
@@ -325,18 +307,18 @@ Three
     
     <item>
       <title>The real effects of delisting:  Evidence from a regression discontinuity design</title>
-      <link>https://example.com/publication/bakkejenswhited-2012/</link>
+      <link>https://candacejens.github.io/publication/bakkejenswhited-2012/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/bakkejenswhited-2012/</guid>
+      <guid>https://candacejens.github.io/publication/bakkejenswhited-2012/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/abs/pii/S1544612312000426&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/admin/config.yml</link>
+      <link>https://candacejens.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/admin/config.yml</guid>
+      <guid>https://candacejens.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     

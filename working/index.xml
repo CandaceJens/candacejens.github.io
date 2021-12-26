@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Working Papers | Academic</title>
-    <link>https://example.com/working/</link>
-      <atom:link href="https://example.com/working/index.xml" rel="self" type="application/rss+xml" />
+    <title>Working Papers | Candace Jens</title>
+    <link>https://candacejens.github.io/working/</link>
+      <atom:link href="https://candacejens.github.io/working/index.xml" rel="self" type="application/rss+xml" />
     <description>Working Papers</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Oct 2021 01:00:06 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://candacejens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Working Papers</title>
-      <link>https://example.com/working/</link>
+      <link>https://candacejens.github.io/working/</link>
     </image>
     
     <item>
-      <title>An application of causal forest in corporate finance: How does financing affect investment?</title>
-      <link>https://example.com/working/gulenjenspage-forest/</link>
-      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/gulenjenspage-forest/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Controlling for group-level heterogeneity in causal forest</title>
-      <link>https://example.com/working/jenspagereeder-forestfixed/</link>
+      <link>https://candacejens.github.io/working/jenspagereeder-forestfixed/</link>
       <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/jenspagereeder-forestfixed/</guid>
+      <guid>https://candacejens.github.io/working/jenspagereeder-forestfixed/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Corporate cash and political uncertainty</title>
-      <link>https://example.com/working/jenspage-cash/</link>
+      <link>https://candacejens.github.io/working/jenspage-cash/</link>
       <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://example.com/working/jenspage-cash/</guid>
+      <guid>https://candacejens.github.io/working/jenspage-cash/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
+      <title>The heterogeneous effects of default on investment: An application of causal forest in corporate finance</title>
+      <link>https://candacejens.github.io/working/gulenjenspage-forest/</link>
+      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <guid>https://candacejens.github.io/working/gulenjenspage-forest/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Change in capitol: How a 60 Minutes exposé and the STOCK Act affected the investment activity of U.S. Senators</title>
-      <link>https://example.com/working/cherryheitzjens-stock/</link>
+      <link>https://candacejens.github.io/working/cherryheitzjens-stock/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://example.com/working/cherryheitzjens-stock/</guid>
+      <guid>https://candacejens.github.io/working/cherryheitzjens-stock/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2905309&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>

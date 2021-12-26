@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Academic</title>
-    <link>https://example.com/publication-type/3/</link>
-      <atom:link href="https://example.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <title>3 | Candace Jens</title>
+    <link>https://candacejens.github.io/publication-type/3/</link>
+      <atom:link href="https://candacejens.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://candacejens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
-      <link>https://example.com/publication-type/3/</link>
+      <link>https://candacejens.github.io/publication-type/3/</link>
     </image>
     
     <item>
       <title>Political uncertainty and firm investment: Project-level evidence from M&amp;A activity</title>
-      <link>https://example.com/publication/chencihanjens-2017/</link>
+      <link>https://candacejens.github.io/publication/chencihanjens-2017/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/chencihanjens-2017/</guid>
+      <guid>https://candacejens.github.io/publication/chencihanjens-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://jfqa.org/2021/03/03/political-uncertainty-and-firm-investment-project-level-evidence-from-ma-activity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
