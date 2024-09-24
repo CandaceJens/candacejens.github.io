@@ -33,38 +33,61 @@
     </item>
     
     <item>
-      <title>Balancing external vs. internal validity: An application of causal forest in finance</title>
-      <link>https://candacejens.github.io/working/gulenjenspage-forest/</link>
-      <pubDate>Tue, 10 May 2022 01:00:06 +0000</pubDate>
-      <guid>https://candacejens.github.io/working/gulenjenspage-forest/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+      <title>Credit Cycles, Expectations, and Corporate Investment</title>
+      <link>https://candacejens.github.io/publication/gulenionjensrossi-2024/</link>
+      <pubDate>Sat, 21 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://candacejens.github.io/publication/gulenionjensrossi-2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://academic.oup.com/rfs/advance-article-abstract/doi/10.1093/rfs/hhae047/7749877?redirectedFrom=fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Credit Market Driven Acquisitions</title>
+      <link>https://candacejens.github.io/working/gulenjensrossi-mergers/</link>
+      <pubDate>Tue, 10 Sep 2024 01:00:06 +0000</pubDate>
+      <guid>https://candacejens.github.io/working/gulenjensrossi-mergers/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Winner of &amp;ldquo;Best Paper in Finance&amp;rdquo; Award, FMARC Conference, 2024&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Using a comprehensive sample of takeovers over 1983-2016, we show that credit market conditions drive takeover activity. When credit spreads are low in quarter t, junk bonds are disproportionately issued and aggregate credit quality deteriorates; debt-financed, all-cash takeovers increase from quarter t+2, peak at quarter t+5, and subside as credit spreads widen. At the firm level, buoyant credit market conditions correlate with more debt-financed takeovers, particularly for overconfident CEOs, and also with higher announcement-day returns and operating performance, except for overconfident CEOs. Our results are consistent with buoyant credit market conditions ameliorating under-investment, but only for acquirers with non-overconfident CEOs.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Uncertainty, precautionary saving, and investment: Evidence from prescheduled election cycles</title>
+      <link>https://candacejens.github.io/publication/jenspage-2024/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://candacejens.github.io/publication/jenspage-2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;
+&lt;a href=&#34;https://onlinelibrary.wiley.com/doi/abs/10.1111/fima.12457&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Controlling for group-level heterogeneity in causal forest</title>
       <link>https://candacejens.github.io/working/jenspagereeder-forestfixed/</link>
-      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
+      <pubDate>Fri, 10 Nov 2023 01:00:06 +0000</pubDate>
       <guid>https://candacejens.github.io/working/jenspagereeder-forestfixed/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Corporate cash and political uncertainty</title>
-      <link>https://candacejens.github.io/working/jenspage-cash/</link>
-      <pubDate>Sun, 10 Oct 2021 01:00:06 +0000</pubDate>
-      <guid>https://candacejens.github.io/working/jenspage-cash/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3094415&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;Causal forest is part of a growing class of doubly-robust machine learning based estimators that non-parametrically recovers heterogeneity in treatment effects. However, causal forest&amp;rsquo;s usefulness is currently limited because the group-level heterogeneity present in many economics settings violates a key assumption of causal forest required for the recovery of unbiased effects. We provide a solution: estimate group-level fixed effects in a regression, create a vector of fixed effects coefficients, and include this vector in the casual forest estimation. Monte Carlo simulations show our solution’s success and the shortcomings of alternatives. Our study greatly increases the number of settings in which unbiased, heterogeneous treatment effects are recoverable.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3907601&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Political uncertainty and firm investment: Project-level evidence from M&amp;A activity</title>
       <link>https://candacejens.github.io/publication/chencihanjens-2017/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://candacejens.github.io/publication/chencihanjens-2017/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://jfqa.org/2021/03/03/political-uncertainty-and-firm-investment-project-level-evidence-from-ma-activity/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/political-uncertainty-and-firm-investment-projectlevel-evidence-from-ma-activity/36559B9BC3D9A13C23433BAE0592E114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Balancing external vs. internal validity: An application of causal forest in finance</title>
+      <link>https://candacejens.github.io/working/gulenjenspage-forest/</link>
+      <pubDate>Tue, 10 Jan 2023 01:00:06 +0000</pubDate>
+      <guid>https://candacejens.github.io/working/gulenjenspage-forest/</guid>
+      <description>&lt;p&gt;Answering a causal question with results extendable outside of a narrow sample is challenging.  Regression discontinuity design (RDD) provides results with strong internal but weak external validity.  Using Monte Carlo experiments, we compare the performance of RDD against causal forest, a non-parametric, machine-learning-based matching estimator, at recovering estimates in panel data.  We show causal forest&amp;rsquo;s observation-level, heterogeneous treatment effects are robust to confounding so bias is low in many settings.  Moreover, any potential bias in forest estimates can be bounded.  We re-visit a popular RDD design, debt covenant defaults, to show how extendable and heterogeneous causal forest estimates enhance inferences.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -196,15 +219,15 @@ $$&lt;/p&gt;
 {{% fragment %}} Three {{% /fragment %}}
 &lt;/code&gt;&lt;/pre&gt;
 &lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;fragment &#34; &gt;
-One
+&lt;span class=&#34;fragment &#34; &gt;
+   One 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-&lt;strong&gt;Two&lt;/strong&gt;
+   **Two** 
 &lt;/span&gt;
 &lt;span class=&#34;fragment &#34; &gt;
-Three
-&lt;/span&gt;&lt;/p&gt;
+   Three 
+&lt;/span&gt;
 &lt;hr&gt;
 &lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
 &lt;ul&gt;
