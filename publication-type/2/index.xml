@@ -5,7 +5,7 @@
     <link>https://candacejens.github.io/publication-type/2/</link>
       <atom:link href="https://candacejens.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Sep 2024 01:00:06 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://candacejens.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
@@ -15,11 +15,21 @@
     <item>
       <title>Credit Market Driven Acquisitions</title>
       <link>https://candacejens.github.io/working/gulenjensrossi-mergers/</link>
-      <pubDate>Tue, 10 Sep 2024 01:00:06 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://candacejens.github.io/working/gulenjensrossi-mergers/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Winner of &amp;ldquo;Best Paper in Finance&amp;rdquo; Award, FMARC Conference, 2024&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Using a comprehensive sample of takeovers over 1983-2016, we show that credit market conditions drive takeover activity. When credit spreads are low in quarter t, junk bonds are disproportionately issued and aggregate credit quality deteriorates; debt-financed, all-cash takeovers increase from quarter t+2, peak at quarter t+5, and subside as credit spreads widen. At the firm level, buoyant credit market conditions correlate with more debt-financed takeovers, particularly for overconfident CEOs, and also with higher announcement-day returns and operating performance, except for overconfident CEOs. Our results are consistent with buoyant credit market conditions ameliorating under-investment, but only for acquirers with non-overconfident CEOs.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Balancing external vs. internal validity: An application of causal forest in finance</title>
+      <link>https://candacejens.github.io/publication/gulenjenspage-2024/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://candacejens.github.io/publication/gulenjenspage-2024/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/CandaceJens/GulenJensPage2024_replication&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Replication package&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -49,16 +59,6 @@
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://candacejens.github.io/publication/chencihanjens-2017/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/political-uncertainty-and-firm-investment-projectlevel-evidence-from-ma-activity/36559B9BC3D9A13C23433BAE0592E114&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to Journal&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Balancing external vs. internal validity: An application of causal forest in finance</title>
-      <link>https://candacejens.github.io/working/gulenjenspage-forest/</link>
-      <pubDate>Tue, 10 Jan 2023 01:00:06 +0000</pubDate>
-      <guid>https://candacejens.github.io/working/gulenjenspage-forest/</guid>
-      <description>&lt;p&gt;Answering a causal question with results extendable outside of a narrow sample is challenging.  Regression discontinuity design (RDD) provides results with strong internal but weak external validity.  Using Monte Carlo experiments, we compare the performance of RDD against causal forest, a non-parametric, machine-learning-based matching estimator, at recovering estimates in panel data.  We show causal forest&amp;rsquo;s observation-level, heterogeneous treatment effects are robust to confounding so bias is low in many settings.  Moreover, any potential bias in forest estimates can be bounded.  We re-visit a popular RDD design, debt covenant defaults, to show how extendable and heterogeneous causal forest estimates enhance inferences.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3583685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SSRN&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
